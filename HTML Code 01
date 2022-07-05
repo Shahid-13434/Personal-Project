@@ -1,0 +1,33 @@
+<?php
+session_start();
+?>
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdullah Raja Assignment 2</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+    <section class="hero-section">
+
+      <nav class="navbar">
+        <h2>Web Programming</h2>
+        <ul>
+          <li><a href="login.html">Login</a></li>
+          
+        </ul>
+      </nav>
+      <div class="hero-text">
+        <h2>Final Year Project.</h2>
+        <p>Delivery Shop</p>
+        <a href="#">Join Us</a>
+      </div>
+    </section>
+  </body>
+
+</html>
